@@ -1,0 +1,1 @@
+# stringcomp.c
